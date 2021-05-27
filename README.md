@@ -4,6 +4,8 @@
 
 ### This is the implementation of a discord bot that works on nodejs using DISCORD.js library.
 
+To activate run: npm run dev
+
 It has basic functionality such as:
 
 1. It can provide you with random anime quote! Just type in !quote to get a random anime quote.
